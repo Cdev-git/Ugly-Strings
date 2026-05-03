@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Ugly Strings\Ugly Strings\bin\Debug\Ugly Strings.exe.config
+C:\Users\User\source\repos\Ugly Strings\Ugly Strings\bin\Debug\Ugly Strings.exe
+C:\Users\User\source\repos\Ugly Strings\Ugly Strings\bin\Debug\Ugly Strings.pdb
+C:\Users\User\source\repos\Ugly Strings\Ugly Strings\bin\Debug\dnlib.dll
+C:\Users\User\source\repos\Ugly Strings\Ugly Strings\bin\Debug\dnlib.xml
+C:\Users\User\source\repos\Ugly Strings\Ugly Strings\obj\Debug\Ugly Strings.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ugly Strings\Ugly Strings\obj\Debug\Ugly Strings.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ugly Strings\Ugly Strings\obj\Debug\Ugly Str.6FCF781C.Up2Date
+C:\Users\User\source\repos\Ugly Strings\Ugly Strings\obj\Debug\Ugly Strings.exe
+C:\Users\User\source\repos\Ugly Strings\Ugly Strings\obj\Debug\Ugly Strings.pdb
